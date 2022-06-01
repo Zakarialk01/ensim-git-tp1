@@ -12,3 +12,10 @@ Ajout de l'image
 Modification horaire 
 Modification titre film
 Eleve : Alexis Galinier 4IPS1
+## Issue 6
+mettre à jour un sixiéme film sur la page
+Ajout de l'image
+Modification horaire 
+Modification titre film
+Eleve : Hammoumi Imane 4IPS1
+
