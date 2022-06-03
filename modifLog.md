@@ -12,3 +12,9 @@ Ajout de l'image
 Modification horaire 
 Modification titre film
 Eleve : Alexis Galinier 4IPS1
+## Issue 4
+mettre à jour quatrième film sur la page
+Ajout de l'image
+Modification horaire 
+Modification titre film
+Eleve : Harold Bonchouo 4IPS1
