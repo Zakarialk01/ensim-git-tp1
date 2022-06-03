@@ -19,3 +19,9 @@ Modification horaire
 Modification titre film
 Eleve : Hammoumi Imane 4IPS1
 
+## Issue 1
+mettre a jour un film sur la page(HOMMES AU BORD DE LA CRISE DE NERFS)
+Ajout de l'image
+Modification horaire 
+Modification titre film
+Eleve : EL FILALI OMAR 4IPS1
