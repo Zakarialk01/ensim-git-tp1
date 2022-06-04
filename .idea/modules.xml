@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ensim-git-tp1-issue-4.iml" filepath="$PROJECT_DIR$/.idea/ensim-git-tp1-issue-4.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ensim-git-tp2.iml" filepath="$PROJECT_DIR$/.idea/ensim-git-tp2.iml" />
+>>>>>>> a4b4b47e1469ae14f0d16c69a2bc27ec1d4b14ee
     </modules>
   </component>
 </project>
