@@ -2,10 +2,26 @@
 	font-family: roboto;
 	font-weight: 900;
 	text-transform:uppercase;
-	color: #fff;
+	color: #22A7F0;
 }
 .card-img-top {
     width: 100%;
     height: 15vw;
     object-fit: cover;
-}	
+}
+.nav-link{
+  color: #fff;
+}
+.card-text span{
+	background-color:#22A7F0;
+}
+.search-btn {
+
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+	border:  2px solid #fff;
+	color:#fff;
+}
