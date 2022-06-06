@@ -34,3 +34,12 @@ Modification horaire
 Modification titre film
 Eleve : EL FILALI OMAR 4IPS1
 
+## Issue 12
+Ajouter un film a l'affiche au Mans cette semaine dans la page.
+Ajout de l'image
+Modification horaire 
+Modification titre film
+Eleve : SAIDI Mohamed 4IPS1
+
+
+
